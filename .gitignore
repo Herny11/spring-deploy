@@ -8,7 +8,7 @@
 # AWS User-specific
 .idea/**/aws.xml
 
-# Generated files
+# Generated files.
 .idea/**/contentModel.xml
 .idea
 
